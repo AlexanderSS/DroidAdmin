@@ -34,7 +34,7 @@ public class LoginActivity extends Activity {
     public String cargo = "";
     public int rol = 1;
 
-    String IP_Server = "192.168.1.34";
+    String IP_Server = "192.168.0.12";
     String URL_connect = "http://" + IP_Server + "/admin/android/r_android/acceso";
     //String URL_connect = "http://pruebanew.esy.es/index.php/android/r_android/acceso";
 
