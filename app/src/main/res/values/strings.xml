@@ -9,11 +9,12 @@
     <string name="lblContrasena">Contraseña</string>
     <string name="btnAcceder">Acceder</string>
     <string name="title_activity_menu">MenuActivity</string>
-    <string name="title_activity_ventas">VentasActivity</string>
+    <string name="title_activity_ventas">Ventas</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
+    <string name="title_section1">Registro Cliente</string>
+    <string name="title_section2">Listado Cliente</string>
+    <string name="title_section3">Registro Pedido</string>
+    <string name="title_section4">Listado Pedido</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
